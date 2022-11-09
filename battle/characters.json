@@ -1,0 +1,247 @@
+{
+  "1": {
+    "name": "Typhlosion",
+    "hp": 360,
+    "attack": 293,
+    "spattack": 348,
+    "speed": 328,
+    "defense": 280,
+    "spdefense": 295,
+    "type1": "Fire",
+    "type2": "",
+    "move1": {
+      "name": "Flamethrower",
+      "power": 90,
+      "attribute": "special",
+      "type": "Fire"
+    },
+    "move2": {
+      "name": "Rock Slide",
+      "power": 75,
+      "attribute": "physical",
+      "type": "Rock"
+    },
+    "move3": {
+      "name": "Double-Edge",
+      "power": 120,
+      "attribute": "physical",
+      "type": "Normal"
+    },
+    "move4": {
+      "name": "Focus Blast",
+      "power": 90,
+      "attribute": "special",
+      "type": "Fighting"
+    }
+  },
+  "2": {
+    "name": "Gengar",
+    "hp": 324,
+    "attack": 251,
+    "spattack": 394,
+    "speed": 350,
+    "defense": 240,
+    "spdefense": 273,
+    "type1": "Ghost",
+    "type2": "Poison",
+    "move1": {
+      "name": "Shadow Ball",
+      "power": 80,
+      "attribute": "special",
+      "type": "Ghost"
+    },
+    "move2": {
+      "name": "Sludge Bomb",
+      "power": 90,
+      "attribute": "special",
+      "type": "Poison"
+    },
+    "move3": {
+      "name": "Dark Pulse",
+      "power": 80,
+      "attribute": "special",
+      "type": "Dark"
+    },
+    "move4": {
+      "name": "Focus Blast",
+      "power": 120,
+      "attribute": "special",
+      "type": "Fighting"
+    }
+  },
+  "3": {
+    "name": "Bisharp",
+    "hp": 334,
+    "attack": 383,
+    "spattack": 240,
+    "speed": 262,
+    "defense": 328,
+    "spdefense": 262,
+    "type1": "Dark",
+    "type2": "Steel",
+    "move1": {
+      "name": "Iron Head",
+      "power": 80,
+      "attribute": "physical",
+      "type": "Steel"
+    },
+    "move2": {
+      "name": "Sucker Punch",
+      "power": 70,
+      "attribute": "physical",
+      "type": "Dark"
+    },
+    "move3": {
+      "name": "Brick Break",
+      "power": 75,
+      "attribute": "physical",
+      "type": "Fighting"
+    },
+    "move4": {
+      "name": "Psycho Cut",
+      "power": 70,
+      "attribute": "physical",
+      "type": "Psychic"
+    }
+  },
+  "4": {
+    "name": "Garchomp",
+    "hp": 420,
+    "attack": 394,
+    "spattack": 284,
+    "speed": 333,
+    "defense": 317,
+    "spdefense": 295,
+    "type1": "Dragon",
+    "type2": "Ground",
+    "move1": {
+      "name": "Dragon Claw",
+      "power": 80,
+      "attribute": "physical",
+      "type": "Dragon"
+    },
+    "move2": {
+      "name": "Rock Slide",
+      "power": 75,
+      "attribute": "physical",
+      "type": "Rock"
+    },
+    "move3": {
+      "name": "Double-Edge",
+      "power": 120,
+      "attribute": "physical",
+      "type": "Normal"
+    },
+    "move4": {
+      "name": "Earthquake",
+      "power": 100,
+      "attribute": "physical",
+      "type": "Ground"
+    }
+  },
+  "5": {
+    "name": "Landorus-Therian",
+    "hp": 382,
+    "attack": 427,
+    "spattack": 339,
+    "speed": 309,
+    "defense": 306,
+    "spdefense": 284,
+    "type1": "Flying",
+    "type2": "Ground",
+    "move1": {
+      "name": "Hammer Arm",
+      "power": 100,
+      "attribute": "physical",
+      "type": "Fighting"
+    },
+    "move2": {
+      "name": "Rock Slide",
+      "power": 75,
+      "attribute": "physical",
+      "type": "Rock"
+    },
+    "move3": {
+      "name": "Double-Edge",
+      "power": 120,
+      "attribute": "physical",
+      "type": "Normal"
+    },
+    "move4": {
+      "name": "Earthquake",
+      "power": 100,
+      "attribute": "physical",
+      "type": "Ground"
+    }
+  },
+  "6": {
+    "name": "Weavile",
+    "hp": 344,
+    "attack": 372,
+    "spattack": 207,
+    "speed": 383,
+    "defense": 251,
+    "spdefense": 295,
+    "type1": "Dark",
+    "type2": "Ice",
+    "move1": {
+      "name": "Icicle Crash",
+      "power": 85,
+      "attribute": "physical",
+      "type": "Ice"
+    },
+    "move2": {
+      "name": "Brick Break",
+      "power": 75,
+      "attribute": "physical",
+      "type": "Fighting"
+    },
+    "move3": {
+      "name": "Foul Play",
+      "power": 95,
+      "attribute": "physical",
+      "type": "Dark"
+    },
+    "move4": {
+      "name": "Poison Jab",
+      "power": 80,
+      "attribute": "physical",
+      "type": "Poison"
+    }
+  },
+  "7": {
+    "name": "Volcarona",
+    "hp": 374,
+    "attack": 240,
+    "spattack": 405,
+    "speed": 328,
+    "defense": 251,
+    "spdefense": 339,
+    "type1": "Fire",
+    "type2": "Bug",
+    "move1": {
+      "name": "Heat Wave",
+      "power": 95,
+      "attribute": "special",
+      "type": "Fire"
+    },
+    "move2": {
+      "name": "Bug Buzz",
+      "power": 90,
+      "attribute": "special",
+      "type": "Bug"
+    },
+    "move3": {
+      "name": "Hurricane",
+      "power": 110,
+      "attribute": "special",
+      "type": "Flying"
+    },
+    "move4": {
+      "name": "Psychic",
+      "power": 90,
+      "attribute": "special",
+      "type": "Psychic"
+    }
+  }
+}
