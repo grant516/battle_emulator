@@ -4,7 +4,7 @@ This software performs a simple Pokemon battle emulator. It does this by pulling
 
 I created this software to help me learn C++. I took a C++ course while attending college, but didn't feel I was gaining the understanding that I desired. Because of this, I built this program to help deepen my understanding of the C++ language.
 
-[Battle Emulator Demo Video]([http://youtube.link.goes.here](https://youtu.be/nrGegbBTxDU))
+[Battle Emulator Demo Video](https://youtu.be/nrGegbBTxDU)
 
 # Development Environment
 
